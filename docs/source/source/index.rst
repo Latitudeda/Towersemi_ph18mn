@@ -1,4 +1,4 @@
-Tower Semiconductor PH18MN Documentation
+Tower Semiconductor PH18MN documentation
 ============================================
 
 .. toctree::
