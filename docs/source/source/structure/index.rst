@@ -7,7 +7,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
 * ``components``
 
-    * Fixed cells: All fixed cells, including ``Cross``, ``Directional Coupler``, ``Grating Coupler``, ``MultiMode Interferometer``, ``Phase Shifter``, ``Photodiode``, ``S bend``, ``Towersemi_bend``, ``Towersemi_taper``, ``Y junction``, ``Transition`` and ``Towersemi_wg`` are named and designed by **Tower Semiconductor** and cannot be changed.
+    * Fixed cells: All fixed cells, including ``Cross``, ``Directional Coupler``, ``Grating Coupler``, ``MultiMode Interferometer``, ``Photodiode``, ``S bend``, ``Towersemi_bend``, ``Towersemi_taper``, ``Y junction``, ``Transition`` and ``Towersemi_wg`` are named and designed by **Tower Semiconductor** and cannot be changed.
 
     * Parametrized cells (PCells): Designed by **LDA**, including ``Bend``, ``Straight``, ``Bond Pad`` and ``Taper``. Please see ``gpdk > components`` for more designed components by **LDA**.
 
