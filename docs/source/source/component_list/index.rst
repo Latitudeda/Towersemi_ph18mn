@@ -10,7 +10,6 @@ Component library
    dc
    gc
    mmi
-   phase_shifter
    photodiode
    s_bend
    taper
